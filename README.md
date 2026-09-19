@@ -6,6 +6,8 @@ A solution to the **Frontend Mentor** "Product preview card component" challenge
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=white)
 
+🔗 **Live Demo:** [https://shena9y.github.io/product-preview-card/](https://shena9y.github.io/product-preview-card/)
+
 ## ✨ Features
 
 - 🛍️ Two-column card: product image + details panel
